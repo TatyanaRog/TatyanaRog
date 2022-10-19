@@ -5,7 +5,7 @@
 
 
 
-### Языки и инструменты
+### Languages and tools:
 <img align="left" alt="Visual Studio Code" src="./src/img/vsc.png" width="26px">
 <img align="left" alt="HTML5" src="./src/img/html.png" width="26px">
 <img align="left" alt="Css3" src="./src/img/css.png" width="26px">
